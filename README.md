@@ -1,7 +1,7 @@
 # City-Metadata-Web-Scrapy
 Scrape city information from us zip website and output it as a csv file
 
-This project is aiming in web scrapy by querying all city metadata from uszip.com. For each city, we want know their basci information, households, industry, occupation, etc., and output them to a csv file.
+This project is aiming in web scrapy by querying approximately **27540** city metadata from [uszip.com](https://www.uszip.com/). For each city, we want know their basci information, households, industry, occupation, etc., and output them to a csv file. 
 
 There are two phases in this projects. The first one is use all state code (eg. CA) to get all zipcodes, and save this zip code file to a csv for further use.
 
